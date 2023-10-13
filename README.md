@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **TypeScript and Jenkins**
 
-- 👨‍💻 All of my projects are available at [https://github.com/marcinlewinski](https://github.com/marcinlewinski)
+- 👨‍💻 All of my projects are available at [Repository](https://github.com/marcinlewinski?tab=repositories)
 
 - 💬 Ask me about **any technologies I've worked with.**
 
