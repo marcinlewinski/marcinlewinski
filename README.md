@@ -1,12 +1,11 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70C1E&width=435&lines=Hello+I'm+Marcin" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4500&pause=1000&color=F70C1E&random=false&width=700&height=60&lines=Hello+I'm+Marcin+-+Full+Stack+Developer+" alt="Typing SVG" /></a>
 - 🌱 I’m currently learning **TypeScript and Jenkins**
 
 - 👨‍💻 All of my projects are available at [Repository](https://github.com/marcinlewinski?tab=repositories)
 
 - 💬 Ask me about **any technologies I've worked with.**
 
-- 📫 How to reach me **marcinlewinski71@gmail.com**
+- 📫 How to reach me: `marcinlewinski71@gmail.com`
 
 
 <h3 align="left">Languages and Tools:</h3>
